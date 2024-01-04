@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(235, 243, 243);
+    font-family: 'Open Sans', serif;
+}
+
+
+.head{
+    font-size: 63px;
+    font-weight: lighter;
+    text-align: center;
+    margin-top: 125px;
+    color: rgb(0, 0, 0);
+    opacity: 80%;
+   
+ 
+}
+p{
+    font-size: 14px;
+    text-align: center;
+    font-family: sans-serif;
+    margin-top: -31px;
+    line-height: 24px;
+    opacity: 75%;
+    word-spacing: 1.7px;
+    letter-spacing: 0.02cm;
+    color: rgb(6, 20, 20);
+    text-align: center;
+}
+
+.close{
+
+    outline-style: hidden;
+}

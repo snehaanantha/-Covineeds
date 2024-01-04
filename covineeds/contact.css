@@ -1,0 +1,62 @@
+
+#footer{
+    padding:70px 0 20px;
+    background: rgb(39, 39, 39);
+}
+.logo{
+    width: 130px;
+    cursor: pointer;
+    margin-top: 0.3cm;
+    height: 1cm;
+    margin-left: -10cm;
+}
+.navbar{
+    opacity: 90%;
+    margin-top: -0.4cm;
+    font-family: 'Open Sans', serif;
+}
+.head{
+    font-size: 63px;
+  
+    text-align: center;
+    margin-top: 130px;
+    color: rgb(6, 20, 20);
+    opacity: 90%;
+ 
+}
+body{
+    background-color: rgb(235, 243, 243);
+}
+.footer-row{
+    width:80%;
+    margin: 0 auto;
+    display:flex;
+    justify-content:space-between;
+    flex-wrap:wrap;
+}
+.footer-left, .footer-right{
+    flex-basis: 45%;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+.footer-right{
+    text-align:right;
+
+}
+.footer-row h3{
+    margin:10px 0;
+}
+.footer-row p{
+    line-height:35px;
+    font: italic 20px "Fira Sans", serif;
+}
+.social-media{
+    display:flex;
+    justify-content:center;
+}
+
+.footer-left .fa , .footer-right .fa {
+    font-size:20px;
+    color:#111111;
+    margin : 8px ;
+}
